@@ -160,7 +160,7 @@
   </a>
   <p>Descripción breve: Directorybrute es una herramienta que he creado en Python para realizar búsqueda de directorios de manera bruta en URLs, inspirada en herramientas como dirb y gobuster.</p>
   <a href="https://github.com/D1se0/directorybrute">
-    <img src="https://img.shields.io/badge/Pagina Web de Hacking Etico-Ver_Código-00758f.svg" alt="Pagina Web de Hacking Etico">
+    <img src="https://img.shields.io/badge/Herramienta Directorybrute-Ver_Código-00758f.svg" alt="Directorybrute Herramienta">
   </a>
 </div>
 
