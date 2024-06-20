@@ -156,7 +156,7 @@
 <div style="width: 48%; background-color: #f0f0f0; padding: 20px; border-radius: 10px;">
   <h3>Herramienta - Directorybrute</h3>
   <a href="https://github.com/D1se0/directorybrute">
-    <img src="https://github.com/D1se0/D1se0/assets/164921056/083fd77f-c011-48c0-bbac-9cc75a12cc2c" alt="Directorybrute Herramienta" style="width: 100%; border-radius: 5px;">
+    <img src="https://github.com/D1se0/D1se0/assets/164921056/28c2624b-2ae8-45e8-973c-d43d25fb97bf" alt="Directorybrute Herramienta" style="width: 100%; border-radius: 5px;">
   </a>
   <p>Descripción breve: Directorybrute es una herramienta que he creado en Python para realizar búsqueda de directorios de manera bruta en URLs, inspirada en herramientas como dirb y gobuster.</p>
   <a href="https://github.com/D1se0/directorybrute">
