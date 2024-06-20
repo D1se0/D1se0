@@ -140,30 +140,30 @@
 
 ## Mis Proyectos Destacados
 
-<div style="display: flex; justify-content: space-between; align-items: flex-start; gap: 20px;">
+<div style="display: flex; justify-content: space-between; gap: 20px; flex-wrap: wrap;">
 
-  <div style="width: 48%; background-color: #f0f0f0; padding: 20px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+  <div style="width: 45%; background-color: #f0f0f0; padding: 20px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
     <h3 style="text-align: center;">Página Web de Hacking Ético</h3>
     <a href="https://github.com/D1se0/hacklab.github.io">
-      <img src="https://github.com/D1se0/D1se0/assets/164921056/11a13d77-0a6c-452d-a979-82bd4a0e224f" alt="Proyecto A" style="width: 100%; border-radius: 5px;">
+      <img src="https://github.com/D1se0/D1se0/assets/164921056/11a13d77-0a6c-452d-a979-82bd4a0e224f" alt="Proyecto A" style="width: 100%; border-radius: 5px; max-height: 200px; object-fit: cover;">
     </a>
     <p style="text-align: center;">Descripción breve: Mi página web sobre hacking ético está dedicada a proporcionar recursos educativos y prácticos para entusiastas y profesionales de la ciberseguridad.</p>
     <div style="text-align: center; margin-top: 10px;">
       <a href="https://github.com/D1se0/hacklab.github.io">
-        <img src="https://img.shields.io/badge/Página Web de Hacking Ético-Ver_Código-00758f.svg" alt="Página Web de Hacking Ético" style="border: none; padding: 10px 20px; text-decoration: none; border-radius: 5px; background-color: #00758f; color: white;">
+        <button style="background-color: #00758f; color: white; border: none; padding: 10px 20px; text-decoration: none; border-radius: 5px; cursor: pointer;">Ver Código</button>
       </a>
     </div>
   </div>
 
-  <div style="width: 48%; background-color: #f0f0f0; padding: 20px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+  <div style="width: 45%; background-color: #f0f0f0; padding: 20px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
     <h3 style="text-align: center;">Herramienta - Directorybrute</h3>
     <a href="https://github.com/D1se0/directorybrute">
-      <img src="https://github.com/D1se0/D1se0/assets/164921056/28c2624b-2ae8-45e8-973c-d43d25fb97bf" alt="Directorybrute Herramienta" style="width: 100%; border-radius: 5px;">
+      <img src="https://github.com/D1se0/D1se0/assets/164921056/28c2624b-2ae8-45e8-973c-d43d25fb97bf" alt="Directorybrute Herramienta" style="width: 100%; border-radius: 5px; max-height: 200px; object-fit: cover;">
     </a>
     <p style="text-align: center;">Descripción breve: Directorybrute es una herramienta que he creado en Python para realizar búsqueda de directorios de manera bruta en URLs, inspirada en herramientas como dirb y gobuster.</p>
     <div style="text-align: center; margin-top: 10px;">
       <a href="https://github.com/D1se0/directorybrute">
-        <img src="https://img.shields.io/badge/Herramienta Directorybrute-Ver_Código-00758f.svg" alt="Directorybrute Herramienta" style="border: none; padding: 10px 20px; text-decoration: none; border-radius: 5px; background-color: #00758f; color: white;">
+        <button style="background-color: #00758f; color: white; border: none; padding: 10px 20px; text-decoration: none; border-radius: 5px; cursor: pointer;">Ver Código</button>
       </a>
     </div>
   </div>
