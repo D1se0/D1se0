@@ -27,6 +27,7 @@
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
   <img src="https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql&link=https://github.com/D1se0)](https://github.com/D1se0">
   <img src="https://img.shields.io/badge/-WordPress-blue?style=flat&logo=wordpress&link=https://github.com/D1se0)](https://github.com/D1se0)">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
 </div>
 </p>
 
