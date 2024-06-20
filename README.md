@@ -34,29 +34,29 @@
 <br>
 
 <h1>About Me</h1>
-    <p>¡Hola! Soy <strong>Adrián</strong>, un apasionado de la ciberseguridad y el hacking ético. Con un trasfondo en ciberseguridad y certificado en esta área, mi enfoque se centra en explorar y fortalecer la seguridad informática desde múltiples perspectivas: Red Team y Blue Team.</p>
+    <p>Hello! I'm <strong>Adrián</strong>, passionate about cybersecurity and ethical hacking. With a background in cybersecurity and certified in this area, my focus is on exploring and strengthening computer security from multiple perspectives: Red Team and Blue Team.</p>
 
-  <h2>Educación y Certificaciones</h2>
+  <h2>Education and Certifications</h2>
     <ul>
-        <li>🎓 Grado Medio en Sistemas Microinformaticos y Redes.</li>
-        <li>🎓 Certificado en Ciberseguridad con un enfoque en técnicas de penetración y defensa.</li>
-        <li>🔍 En proceso de obtener el certificado eJPT (eLearnSecurity Junior Penetration Tester).</li>
-  </ul>
+        <li>🎓 Vocational Degree in Microcomputer Systems and Networks.</li>
+        <li>🎓 Certified in Cybersecurity with a focus on penetration and defense techniques.</li>
+        <li>🔍 Currently pursuing the eJPT certification (eLearnSecurity Junior Penetration Tester).</li>
+    </ul>
 
-  <h2>Experiencia y Proyectos</h2>
+  <h2>Experience and Projects</h2>
     <ul>
-        <li>💼 Activo en el campo del hacking ético, con una pasión especial por el pentesting y la creación de herramientas en Python3.</li>
-        <li>🛠️ He desarrollado varias herramientas de hacking ético para automatizar pruebas de penetración y fortalecer la seguridad de sistemas.</li>
-        <li>🌐 Fundador y creador desde cero de <em>Comunidad Hacking Ético</em>, una plataforma dedicada a educar y compartir conocimientos sobre ciberseguridad.</li>
-        <li>🎥 Gestor del canal de YouTube <em>@Hacking_Community</em>, donde comparto tutoriales prácticos y educativos sobre hacking ético y técnicas avanzadas de seguridad informática.</li>
-  </ul>
+        <li>💼 Active in the field of ethical hacking, with a special passion for pentesting and creating tools in Python3.</li>
+        <li>🛠️ Developed several ethical hacking tools to automate penetration testing and strengthen system security.</li>
+        <li>🌐 Founder and creator from scratch of <em>Ethical Hacking Community</em>, a platform dedicated to educating and sharing knowledge about cybersecurity.</li>
+        <li>🎥 Manager of the YouTube channel <em>@Hacking_Community</em>, where I share practical and educational tutorials on ethical hacking and advanced cybersecurity techniques.</li>
+    </ul>
 
-  <h2>Filosofía</h2>
-    <p>Mi tiempo libre lo dedico íntegramente al aprendizaje continuo en ciberseguridad. Cada día es una oportunidad para expandir mis habilidades, enfrentar nuevos desafíos y contribuir al crecimiento de la comunidad de hacking ético.</p>
+  <h2>Philosophy</h2>
+    <p>In my free time, I dedicate myself entirely to continuous learning in cybersecurity. Each day presents an opportunity to expand my skills, face new challenges, and contribute to the growth of the ethical hacking community.</p>
 
-  <h2>Contacto</h2>
+  <h2>Contact</h2>
     <ul>
-        <li>📧 Correo electrónico: <a href="mailto:ciberseguridad12345@email.com">ciberseguridad12345@email.com</a></li>
+        <li>📧 Email: <a href="mailto:ciberseguridad12345@email.com">ciberseguridad12345@email.com</a></li>
     </ul>
 
 <br>
