@@ -136,6 +136,22 @@
   &emsp;
 </p>
 
+<br>
+
+## Mis Repositorios Destacados
+
+### Proyecto A
+
+[![Proyecto A](https://img.shields.io/badge/Proyecto_A-Ver_Código-00758f.svg)](https://github.com/tu-usuario/proyecto-a)
+
+Breve descripción del Proyecto A si es necesario.
+
+### Proyecto B
+
+[![Proyecto B](https://img.shields.io/badge/Proyecto_B-Ver_Código-00758f.svg)](https://github.com/tu-usuario/proyecto-b)
+
+Breve descripción del Proyecto B si es necesario.
+
 <br><br>
 <!--!
 
