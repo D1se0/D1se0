@@ -9,6 +9,8 @@
 
 </div>
 
+[![Github](https://img.shields.io/github/followers/D1se0?tab=followers&style=social)](https://github.com/D1se0)
+
 <p>
 <div align="center">
   <img src="https://img.shields.io/badge/-HTML-c58545?style=for-the-badge&logo=html5&logoColor=c58545&labelColor=282828">
