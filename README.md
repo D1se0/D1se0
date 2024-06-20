@@ -16,7 +16,7 @@
     ![Linkedin: berkeli](https://img.shields.io/badge/-berkeli-blue?style=flat-square&logo=Linkedin&logoColor=white)
 </a>
 <a href="https://www.youtube.com/channel/UCTYFCMrN3NLa70bmpjRB--g">
-    ![Twitter: halmyradov](https://img.shields.io/youtube/follow/Hacking_Community?style=social)
+    ![Twitter: halmyradov](https://img.shields.io/youtube?style=social)
 </a>
 &emsp;
 
