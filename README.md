@@ -138,67 +138,36 @@
 
 <br>
 
-## Mis Proyectos Destacados
+## My Featured Projects
 
 <div align="center">
 
 <table>
   <tr>
     <td align="center" width="50%">
-      <h3>Página Web de Hacking Ético</h3>
+      <h3>Ethical Hacking Website</h3>
       <a href="https://github.com/D1se0/hacklab.github.io">
-        <img src="https://github.com/D1se0/D1se0/assets/164921056/d1e47bfc-1c97-41ac-8fb8-8d00903277ef" alt="Proyecto A" style="width: 100%; max-height: 200px; border-radius: 5px;">
+        <img src="https://github.com/D1se0/D1se0/assets/164921056/d1e47bfc-1c97-41ac-8fb8-8d00903277ef" alt="Project A" style="width: 100%; max-height: 200px; border-radius: 5px;">
       </a>
-      <p>Mi página web sobre hacking ético está dedicada a proporcionar recursos educativos y prácticos para entusiastas y profesionales de la ciberseguridad.</p>
+      <p>My ethical hacking website is dedicated to providing educational and practical resources for cybersecurity enthusiasts and professionals.</p>
       <a href="https://github.com/D1se0/hacklab.github.io">
-        <img src="https://img.shields.io/badge/Página_Web_de_Hacking_Ético-Ver_Código-00758f.svg" alt="Página Web de Hacking Ético">
+        <img src="https://img.shields.io/badge/Ethical_Hacking_Website-View_Code-00758f.svg" alt="Ethical Hacking Website">
       </a>
     </td>
     <td align="center" width="50%">
-      <h3>Herramienta - Directorybrute</h3>
+      <h3>Tool - Directorybrute</h3>
       <a href="https://github.com/D1se0/directorybrute">
-        <img src="https://github.com/D1se0/D1se0/assets/164921056/28c2624b-2ae8-45e8-973c-d43d25fb97bf" alt="Directorybrute Herramienta" style="width: 100%; max-height: 200px; border-radius: 5px;">
+        <img src="https://github.com/D1se0/D1se0/assets/164921056/28c2624b-2ae8-45e8-973c-d43d25fb97bf" alt="Directorybrute Tool" style="width: 100%; max-height: 200px; border-radius: 5px;">
       </a>
-      <p>Directorybrute es una herramienta que he creado en Python para realizar búsqueda de directorios de manera bruta en URLs, inspirada en herramientas como dirb y gobuster.</p>
+      <p>Directorybrute is a tool I created in Python for brute-forcing directory searches on URLs, inspired by tools like dirb and gobuster.</p>
       <a href="https://github.com/D1se0/directorybrute">
-        <img src="https://img.shields.io/badge/Directorybrute-Ver_Código-00758f.svg" alt="Directorybrute Herramienta">
+        <img src="https://img.shields.io/badge/Directorybrute-View_Code-00758f.svg" alt="Directorybrute Tool">
       </a>
     </td>
   </tr>
 </table>
 
 </div>
-
-<!--
-## Mis Proyectos Destacados
-
-<div style="display: flex; justify-content: space-between;">
-
-<div style="width: 48%; background-color: #f0f0f0; padding: 20px; border-radius: 10px;">
-  <h3>Página Web de Hacking Ético</h3>
-  <a href="https://github.com/D1se0/hacklab.github.io">
-    <img src="https://github.com/D1se0/D1se0/assets/164921056/11a13d77-0a6c-452d-a979-82bd4a0e224f" alt="Proyecto A" style="border-radius: 5px;">
-  </a>
-  <p>Descripción breve: Mi página web sobre hacking ético está dedicada a proporcionar recursos educativos y prácticos para entusiastas y profesionales de la ciberseguridad.</p>
-  <a href="https://github.com/D1se0/hacklab.github.io">
-    <img src="https://img.shields.io/badge/Pagina Web de Hacking Etico-Ver_Código-00758f.svg" alt="Pagina Web de Hacking Etico">
-  </a>
-</div>
-
-<div style="width: 48%; background-color: #f0f0f0; padding: 20px; border-radius: 10px;">
-  <h3>Herramienta - Directorybrute</h3>
-  <a href="https://github.com/D1se0/directorybrute">
-    <img src="https://github.com/D1se0/D1se0/assets/164921056/28c2624b-2ae8-45e8-973c-d43d25fb97bf" alt="Directorybrute Herramienta" style="border-radius: 5px;">
-  </a>
-  <p>Descripción breve: Directorybrute es una herramienta que he creado en Python para realizar búsqueda de directorios de manera bruta en URLs, inspirada en herramientas como dirb y gobuster.</p>
-  <a href="https://github.com/D1se0/directorybrute">
-    <img src="https://img.shields.io/badge/Herramienta Directorybrute-Ver_Código-00758f.svg" alt="Directorybrute Herramienta">
-  </a>
-</div>
-
-</div>
-
--->
 
 <br><br>
 <!--!
