@@ -1,4 +1,5 @@
 ## Hi, I'm `Diseo` 👋
+<span style="color:red">Texto en rojo</span>
 
 <!--
 **D1se0/D1se0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
