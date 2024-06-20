@@ -1,5 +1,5 @@
 <div align="center">
-<h2> Hi, I'm `Diseo` <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
+<h2> Hi, I'm  ̶D̶i̶s̶e̶o̶   <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
 
 </div>
 
