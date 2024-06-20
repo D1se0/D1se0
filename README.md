@@ -16,6 +16,7 @@
   <a href="https://www.linkedin.com/in/adriaangaarcialopez" target="_blank">
   <img src="https://badgen.net/badge/Linkedin/in/adriaangaarcialopez?style=social&logo=linkedin&labelColor=black&color=blue" alt="LinkedIn">
 </a>
+  [![Github](https://img.shields.io/github/followers/D1se0?tab=followers&style=social)](https://github.com/D1se0)
 </div>
 </p>
 
