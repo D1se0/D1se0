@@ -13,7 +13,7 @@
 
 &emsp;
 <a href="www.linkedin.com/in/adriaangaarcialopez">
-    ![Linkedin: berkeli](https://img.shields.io/badge/-berkeli-blue?style=flat-square&logo=Linkedin&logoColor=white)
+    ![Linkedin: berkeli](https://img.shields.io/badge/adrian?style=flat-square&logo=Linkedin&logoColor=white)
 </a>
 <a href="https://www.youtube.com/channel/UCTYFCMrN3NLa70bmpjRB--g">
     ![Twitter: halmyradov](https://img.shields.io/youtube?style=social)
