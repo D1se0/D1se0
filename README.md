@@ -169,6 +169,20 @@
 
 </div>
 
+<br>
+
+## Statics
+
+<section align="center">
+    <h3>Personal stats:</h3>
+    <section align="center">
+        <p><b>D1se0's Profile Overview</b></p>
+        <a href="https://hits.seeyoufarm.com">
+            <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FD1se0&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits%2Fviews&edge_flat=false"/>
+        </a>
+    </section>
+</section>
+
 <br><br>
 <!--!
 
