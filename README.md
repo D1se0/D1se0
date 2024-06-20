@@ -171,24 +171,26 @@
 
 <br>
 
-## Statics
-
 ## Personal stats:
 
 <section align="center">
     <p><b>D1se0's Profile Overview</b></p>
-    <a href="https://github.com/D1se0">
+</section>
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/D1se0">
         <img src="https://github-readme-stats.vercel.app/api?username=D1se0&show_icons=true&theme=dark&count_private=true&hide_border=true&bg_color=151515&title_color=00758f&icon_color=79ff97&text_color=ffffff" alt="D1se0's GitHub stats">
-    </a>
-</section>
-
-## Most Used Languages:
-
-<section align="center">
-    <a href="https://github.com/D1se0">
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/D1se0">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=D1se0&layout=compact&theme=dark&hide_border=true&bg_color=151515&title_color=00758f&text_color=ffffff" alt="D1se0's Most Used Languages">
-    </a>
-</section>
+      </a>
+    </td>
+  </tr>
+</table>
 
 <br><br>
 <!--!
