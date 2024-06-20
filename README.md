@@ -13,6 +13,8 @@
 
 ### 👨‍💻 Languages and Tools
 
+<br>
+
 <p>
 <div align="center">
   <img src="https://img.shields.io/badge/-HTML-c58545?style=for-the-badge&logo=html5&logoColor=c58545&labelColor=282828">
