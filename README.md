@@ -5,10 +5,11 @@
 
 <div align="center" width="50">
 
-<img src="https://github.com/D1se0/D1se0/assets/164921056/b05208a4-9a96-443e-a908-545af8dac192" alt="Welcome!" width="300"/>
+<img src="https://github.com/D1se0/D1se0/assets/164921056/90a9e063-8c3e-4a2c-8303-4a24be13061d" alt="Welcome!" width="300"/>
 
 </div>
-<!--
+<!--!
+
 **D1se0/D1se0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
