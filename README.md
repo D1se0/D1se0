@@ -147,7 +147,7 @@
     <td align="center" width="50%">
       <h3>Página Web de Hacking Ético</h3>
       <a href="https://github.com/D1se0/hacklab.github.io">
-        <img src="https://github.com/D1se0/D1se0/assets/164921056/734d2f56-3f3b-4782-ae7e-3dbdf2543186" alt="Proyecto A" style="width: 100%; max-height: 200px; border-radius: 5px;">
+        <img src="https://github.com/D1se0/D1se0/assets/164921056/d1e47bfc-1c97-41ac-8fb8-8d00903277ef" alt="Proyecto A" style="width: 100%; max-height: 200px; border-radius: 5px;">
       </a>
       <p>Mi página web sobre hacking ético está dedicada a proporcionar recursos educativos y prácticos para entusiastas y profesionales de la ciberseguridad.</p>
       <a href="https://github.com/D1se0/hacklab.github.io">
