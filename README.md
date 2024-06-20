@@ -140,33 +140,32 @@
 
 ## Mis Proyectos Destacados
 
-<div style="display: flex; justify-content: space-between; gap: 20px; flex-wrap: wrap;">
+<div align="center">
 
-  <div style="width: 45%; background-color: #f0f0f0; padding: 20px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
-    <h3 style="text-align: center;">Página Web de Hacking Ético</h3>
-    <a href="https://github.com/D1se0/hacklab.github.io">
-      <img src="https://github.com/D1se0/D1se0/assets/164921056/11a13d77-0a6c-452d-a979-82bd4a0e224f" alt="Proyecto A" style="width: 100%; border-radius: 5px; max-height: 200px; object-fit: cover;">
-    </a>
-    <p style="text-align: center;">Descripción breve: Mi página web sobre hacking ético está dedicada a proporcionar recursos educativos y prácticos para entusiastas y profesionales de la ciberseguridad.</p>
-    <div style="text-align: center; margin-top: 10px;">
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <h3>Página Web de Hacking Ético</h3>
       <a href="https://github.com/D1se0/hacklab.github.io">
-        <button style="background-color: #00758f; color: white; border: none; padding: 10px 20px; text-decoration: none; border-radius: 5px; cursor: pointer;">Ver Código</button>
+        <img src="https://github.com/D1se0/D1se0/assets/164921056/11a13d77-0a6c-452d-a979-82bd4a0e224f" alt="Proyecto A" style="width: 100%; max-height: 200px; border-radius: 5px;">
       </a>
-    </div>
-  </div>
-
-  <div style="width: 45%; background-color: #f0f0f0; padding: 20px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
-    <h3 style="text-align: center;">Herramienta - Directorybrute</h3>
-    <a href="https://github.com/D1se0/directorybrute">
-      <img src="https://github.com/D1se0/D1se0/assets/164921056/28c2624b-2ae8-45e8-973c-d43d25fb97bf" alt="Directorybrute Herramienta" style="width: 100%; border-radius: 5px; max-height: 200px; object-fit: cover;">
-    </a>
-    <p style="text-align: center;">Descripción breve: Directorybrute es una herramienta que he creado en Python para realizar búsqueda de directorios de manera bruta en URLs, inspirada en herramientas como dirb y gobuster.</p>
-    <div style="text-align: center; margin-top: 10px;">
+      <p>Mi página web sobre hacking ético está dedicada a proporcionar recursos educativos y prácticos para entusiastas y profesionales de la ciberseguridad.</p>
+      <a href="https://github.com/D1se0/hacklab.github.io">
+        <img src="https://img.shields.io/badge/Página_Web_de_Hacking_Ético-Ver_Código-00758f.svg" alt="Página Web de Hacking Ético">
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <h3>Herramienta - Directorybrute</h3>
       <a href="https://github.com/D1se0/directorybrute">
-        <button style="background-color: #00758f; color: white; border: none; padding: 10px 20px; text-decoration: none; border-radius: 5px; cursor: pointer;">Ver Código</button>
+        <img src="https://github.com/D1se0/D1se0/assets/164921056/28c2624b-2ae8-45e8-973c-d43d25fb97bf" alt="Directorybrute Herramienta" style="width: 100%; max-height: 200px; border-radius: 5px;">
       </a>
-    </div>
-  </div>
+      <p>Directorybrute es una herramienta que he creado en Python para realizar búsqueda de directorios de manera bruta en URLs, inspirada en herramientas como dirb y gobuster.</p>
+      <a href="https://github.com/D1se0/directorybrute">
+        <img src="https://img.shields.io/badge/Directorybrute-Ver_Código-00758f.svg" alt="Directorybrute Herramienta">
+      </a>
+    </td>
+  </tr>
+</table>
 
 </div>
 
