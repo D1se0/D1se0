@@ -17,7 +17,7 @@
   <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" alt="YouTube">
 </a>
   <a href="https://www.linkedin.com/in/adriaangaarcialopez" target="_blank">
-  <img src="https://img.shields.io/badge/Linkedin-%23FF0000.svg?logo=Linkedin&logoColor=white" alt="Linkedin">
+  <img src="https://img.shields.io/badge/Linkedin-%230074D9.svg?logo=Linkedin&logoColor=white" alt="Linkedin">
 </a>
   <a href="https://github.com/D1se0">
   <img src="https://img.shields.io/github/followers/D1se0?tab=followers&style=social" alt="GitHub">
