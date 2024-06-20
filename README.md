@@ -1,7 +1,13 @@
-## Hi, I'm `Diseo` 👋
+<div align="center">
+<h2> Hi, I'm `Diseo` 👋 <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
 
-![bannertwitch](https://github.com/D1se0/D1se0/assets/164921056/0f523c3b-fb2b-4852-98d6-47757354df0f)
+</div>
 
+<div align="center" width="50">
+
+<img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" alt="Welcome!" width="300"/>
+
+</div>
 <!--
 **D1se0/D1se0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
