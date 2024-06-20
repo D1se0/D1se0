@@ -73,7 +73,7 @@
   </a> 
    &emsp;
    <a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"> 
-    <img alt="Adobe Photoshop" src="https://img.shields.io/badge/Adobe Photoshop-%23FF9A00.svg?style=flat&logo=adobephotoshop&logoColor=white"/>
+    <img alt="Adobe Photoshop" src="https://img.shields.io/badge/Adobe Photoshop-%230074D9.svg?style=flat&logo=adobephotoshop&logoColor=white"/>
   </a> 
     &emsp;
   <a href="#">
