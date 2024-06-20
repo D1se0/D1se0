@@ -13,7 +13,7 @@
 
 <p>
 <div align="center">
-  <img src="https://badgen.net/badge/Linkedin/in/adriaangaarcialopez?style=social&logo=linkedin&labelColor=black&color=blue)](www.linkedin.com/in/adriaangaarcialopez">
+  <img href="www.linkedin.com/in/adriaangaarcialopez" src="https://badgen.net/badge/Linkedin/in/adriaangaarcialopez?style=social&logo=linkedin&labelColor=black&color=blue">
 </div>
 </p>
 
