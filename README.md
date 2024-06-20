@@ -13,7 +13,9 @@
 
 <p>
 <div align="center">
-  <img href="www.linkedin.com/in/adriaangaarcialopez" src="https://badgen.net/badge/Linkedin/in/adriaangaarcialopez?style=social&logo=linkedin&labelColor=black&color=blue">
+  <a href="https://www.linkedin.com/in/adriaangaarcialopez">
+  <img src="https://badgen.net/badge/Linkedin/in/adriaangaarcialopez?style=social&logo=linkedin&labelColor=black&color=blue" alt="LinkedIn">
+</a>
 </div>
 </p>
 
