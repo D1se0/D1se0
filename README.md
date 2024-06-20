@@ -143,7 +143,7 @@
 <div style="display: flex; justify-content: space-between;">
 
 <div style="width: 48%; background-color: #f0f0f0; padding: 20px; border-radius: 10px;">
-  <h3>Proyecto A - Página Web de Hacking Ético</h3>
+  <h3>Página Web de Hacking Ético</h3>
   <a href="https://github.com/D1se0/hacklab.github.io">
     <img src="https://via.placeholder.com/400x200" alt="Proyecto A" style="width: 100%; border-radius: 5px;">
   </a>
@@ -154,7 +154,7 @@
 </div>
 
 <div style="width: 48%; background-color: #f0f0f0; padding: 20px; border-radius: 10px;">
-  <h3>Proyecto B - Directorybrute</h3>
+  <h3>Herramienta - Directorybrute</h3>
   <a href="https://github.com/tu-usuario/proyecto-b">
     <img src="https://via.placeholder.com/400x200" alt="Directorybrute Herramienta" style="width: 100%; border-radius: 5px;">
   </a>
