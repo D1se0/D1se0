@@ -1,5 +1,6 @@
 ## Hi, I'm `Diseo` 👋
-<span style="color:red">Texto en rojo</span>
+
+![bannertwitch](https://github.com/D1se0/D1se0/assets/164921056/0f523c3b-fb2b-4852-98d6-47757354df0f)
 
 <!--
 **D1se0/D1se0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
