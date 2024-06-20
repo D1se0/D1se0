@@ -147,7 +147,7 @@
     <td align="center" width="50%">
       <h3>Página Web de Hacking Ético</h3>
       <a href="https://github.com/D1se0/hacklab.github.io">
-        <img src="https://github.com/D1se0/D1se0/assets/164921056/11a13d77-0a6c-452d-a979-82bd4a0e224f" alt="Proyecto A" style="width: 100%; max-height: 200px; border-radius: 5px;">
+        <img src="https://github.com/D1se0/D1se0/assets/164921056/11a13d77-0a6c-452d-a979-82bd4a0e224f" alt="Proyecto A" style="border-radius: 5px;">
       </a>
       <p>Mi página web sobre hacking ético está dedicada a proporcionar recursos educativos y prácticos para entusiastas y profesionales de la ciberseguridad.</p>
       <a href="https://github.com/D1se0/hacklab.github.io">
@@ -157,7 +157,7 @@
     <td align="center" width="50%">
       <h3>Herramienta - Directorybrute</h3>
       <a href="https://github.com/D1se0/directorybrute">
-        <img src="https://github.com/D1se0/D1se0/assets/164921056/28c2624b-2ae8-45e8-973c-d43d25fb97bf" alt="Directorybrute Herramienta" style="width: 100%; max-height: 200px; border-radius: 5px;">
+        <img src="https://github.com/D1se0/D1se0/assets/164921056/28c2624b-2ae8-45e8-973c-d43d25fb97bf" alt="Directorybrute Herramienta" style="border-radius: 5px;">
       </a>
       <p>Directorybrute es una herramienta que he creado en Python para realizar búsqueda de directorios de manera bruta en URLs, inspirada en herramientas como dirb y gobuster.</p>
       <a href="https://github.com/D1se0/directorybrute">
