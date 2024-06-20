@@ -56,7 +56,7 @@
 
   <h2>Contact</h2>
     <ul>
-        <li>📧 Email: <a href="mailto:ciberseguridad12345@email.com">ciberseguridad12345@email.com</a></li>
+        <li>📧 Email: <a href="mailto:ciberseguridad12345@email.com">ciberseguridad12345@gmail.com</a></li>
     </ul>
 
 <br>
