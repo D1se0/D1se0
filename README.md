@@ -11,6 +11,12 @@
 
 <br>
 
+<p>
+<div align="center">
+  <img src="https://badgen.net/badge/Linkedin/in/adriaangaarcialopez?style=social&logo=linkedin&labelColor=black&color=blue)](www.linkedin.com/in/adriaangaarcialopez">
+</div>
+</p>
+
 [![Github](https://img.shields.io/github/followers/D1se0?tab=followers&style=social)](https://github.com/D1se0)
 
 <br>
@@ -28,7 +34,6 @@
   <img src="https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql&link=https://github.com/D1se0)](https://github.com/D1se0">
   <img src="https://img.shields.io/badge/-WordPress-blue?style=flat&logo=wordpress&link=https://github.com/D1se0)](https://github.com/D1se0)">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff>
 </div>
 </p>
 
