@@ -148,7 +148,7 @@
     <img src="https://via.placeholder.com/400x200" alt="Proyecto A" style="width: 100%; border-radius: 5px;">
   </a>
   <p>Descripción breve: Mi página web sobre hacking ético está dedicada a proporcionar recursos educativos y prácticos para entusiastas y profesionales de la ciberseguridad.</p>
-  <a href="https://github.com/tu-usuario/proyecto-a">
+  <a href="https://github.com/D1se0/hacklab.github.io">
     <img src="https://img.shields.io/badge/Pagina Web de Hacking Etico-Ver_Código-00758f.svg" alt="Pagina Web de Hacking Etico">
   </a>
 </div>
