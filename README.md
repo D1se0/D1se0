@@ -27,6 +27,40 @@
  
 <br>
 
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
+
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+
+<br>
+
+<h1>About Me</h1>
+    <p>¡Hola! Soy <strong>Adrián</strong>, un apasionado de la ciberseguridad y el hacking ético. Con un trasfondo en ciberseguridad y certificado en esta área, mi enfoque se centra en explorar y fortalecer la seguridad informática desde múltiples perspectivas: Red Team y Blue Team.</p>
+
+  <h2>Educación y Certificaciones</h2>
+    <ul>
+        <li>🎓 Grado Medio en Sistemas Microinformaticos y Redes.</li>
+        <li>🎓 Certificado en Ciberseguridad con un enfoque en técnicas de penetración y defensa.</li>
+        <li>🔍 En proceso de obtener el certificado eJPT (eLearnSecurity Junior Penetration Tester).</li>
+  </ul>
+
+  <h2>Experiencia y Proyectos</h2>
+    <ul>
+        <li>💼 Activo en el campo del hacking ético, con una pasión especial por el pentesting y la creación de herramientas en Python3.</li>
+        <li>🛠️ He desarrollado varias herramientas de hacking ético para automatizar pruebas de penetración y fortalecer la seguridad de sistemas.</li>
+        <li>🌐 Fundador y creador desde cero de <em>Comunidad Hacking Ético</em>, una plataforma dedicada a educar y compartir conocimientos sobre ciberseguridad.</li>
+        <li>🎥 Gestor del canal de YouTube <em>@Hacking_Community</em>, donde comparto tutoriales prácticos y educativos sobre hacking ético y técnicas avanzadas de seguridad informática.</li>
+  </ul>
+
+  <h2>Filosofía</h2>
+    <p>Mi tiempo libre lo dedico íntegramente al aprendizaje continuo en ciberseguridad. Cada día es una oportunidad para expandir mis habilidades, enfrentar nuevos desafíos y contribuir al crecimiento de la comunidad de hacking ético.</p>
+
+  <h2>Contacto</h2>
+    <ul>
+        <li>📧 Correo electrónico: <a href="mailto:ciberseguridad12345@email.com">ciberseguridad12345@email.com</a></li>
+    </ul>
+
+<br>
+
 ## 🛠️ My Skills
 
 ### 👉 Programming languages
@@ -101,12 +135,6 @@
     <a href="#"><img alt="WordPress" src="https://img.shields.io/badge/-WordPress-1F497D.svg?logo=wordpress&logoColor=white"></a>
   &emsp;
 </p>
-
-<br>
-
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
-
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
 <br><br>
 <!--!
