@@ -11,6 +11,8 @@
 
 [![Github](https://img.shields.io/github/followers/D1se0?tab=followers&style=social)](https://github.com/D1se0)
 
+<br>
+
 ### 👨‍💻 Languages and Tools
 
 <br>
@@ -25,6 +27,8 @@
   <img src="https://img.shields.io/badge/-WordPress-blue?style=flat&logo=wordpress&link=https://github.com/D1se0)](https://github.com/D1se0)">
 </div>
 </p>
+
+<br>
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
