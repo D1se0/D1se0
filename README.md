@@ -198,9 +198,11 @@
 
 # Other tools (by @d1se0)
 
-`revShell` = [Tool revShell](LINK)
+<br>
 
-`checkPassword` = [Tool checkPassword](LINK)
+`revShell` = [Tool revShell](https://github.com/D1se0/revShell)
+
+`checkPassword` = [Tool checkPassword](https://github.com/D1se0/checkPassword)
 <!--!
 
 **D1se0/D1se0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
