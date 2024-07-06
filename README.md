@@ -195,6 +195,12 @@
 </div>
 
 <br><br>
+
+# Other tools (by @d1se0)
+
+`revShell` = [Tool revShell](LINK)
+
+`checkPassword` = [Tool checkPassword](LINK)
 <!--!
 
 **D1se0/D1se0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
