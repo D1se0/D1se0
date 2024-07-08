@@ -203,6 +203,8 @@
 `revShell` = [Tool revShell](https://github.com/D1se0/revShell)
 
 `checkPassword` = [Tool checkPassword](https://github.com/D1se0/checkPassword)
+
+`portScan` = [Tool portScan](https://github.com/D1se0/portScan/tree/main)
 <!--!
 
 **D1se0/D1se0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
