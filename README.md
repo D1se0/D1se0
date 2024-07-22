@@ -46,7 +46,8 @@
 
   <h2>Experience and Projects</h2>
     <ul>
-        <li>💼 Active in the field of ethical hacking, with a special passion for pentesting and creating tools in Python3.</li>
+        <li>
+💼 Active in the field of ethical hacking, with a special passion for pentesting and creating tools in Python3.</li>
         <li>🛠️ Developed several ethical hacking tools to automate penetration testing and strengthen system security.</li>
         <li>🌐 Founder and creator from scratch of <em>Ethical Hacking Community</em>, a platform dedicated to educating and sharing knowledge about cybersecurity.</li>
         <li>🎥 Manager of the YouTube channel <em>@Hacking_Community</em>, where I share practical and educational tutorials on ethical hacking and advanced cybersecurity techniques.</li>
@@ -208,6 +209,9 @@
 `portScan` = [Tool portScan](https://github.com/D1se0/portScan/tree/main)
 
 `crackerPass` = [Tool crackerPass](https://github.com/D1se0/crackerPass/tree/main)
+
+`superTool` = [Tool superTool](https://github.com/D1se0/superTool/tree/main)
+
 <!--!
 
 **D1se0/D1se0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
