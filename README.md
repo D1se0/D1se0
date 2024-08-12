@@ -212,6 +212,8 @@
 
 `superTool` = [Tool superTool](https://github.com/D1se0/superTool/tree/main)
 
+`keylogger_script` = [Tool keylogger_script](https://github.com/D1se0/keylogger_script/tree/main)
+
 <!--!
 
 **D1se0/D1se0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
