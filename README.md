@@ -162,8 +162,8 @@
         <img src="https://github.com/user-attachments/assets/25ee94f6-ac12-4134-b5b0-540600ea28f3" alt="HackerLabs Website" style="width: 100%; max-height: 200px; border-radius: 5px;">
       </a>
       <p>Platform to share and collaborate on CTF ethical hacking challenges, allowing users to explore and contribute to cybersecurity challenges.</p>
-      <a href="https://github.com/D1se0/directorybrute">
-        <img src="https://img.shields.io/badge/Directorybrute-View_Code-00758f.svg" alt="HackerLabs Website">
+      <a href="https://github.com/D1se0/hackerlabs">
+        <img src="https://img.shields.io/badge/Hackerlabs-View_Code-00758f.svg" alt="HackerLabs Website">
       </a>
     </td>
   </tr>
