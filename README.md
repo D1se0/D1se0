@@ -3,7 +3,8 @@
 
 </div>
 
-<div align="center" width="50">
+<div align
+="center" width="50">
 
 <img src="https://github.com/D1se0/D1se0/assets/164921056/90a9e063-8c3e-4a2c-8303-4a24be13061d" alt="Welcome!" width="1000"/>
 
@@ -158,11 +159,11 @@
     </td>
     <td align="center" width="50%">
       <h3>HackerLabs Website</h3>
-      <a href="https://github.com/D1se0/hackerlabs">
+      <a href="https://d1se0.github.io/hackerlabs/">
         <img src="https://github.com/user-attachments/assets/25ee94f6-ac12-4134-b5b0-540600ea28f3" alt="HackerLabs Website" style="width: 100%; max-height: 200px; border-radius: 5px;">
       </a>
       <p>Platform to share and collaborate on CTF ethical hacking challenges, allowing users to explore and contribute to cybersecurity challenges.</p>
-      <a href="https://github.com/D1se0/hackerlabs">
+      <a href="https://d1se0.github.io/hackerlabs/">
         <img src="https://img.shields.io/badge/Hackerlabs_Website-View_Code-00758f.svg" alt="HackerLabs Website">
       </a>
     </td>
