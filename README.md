@@ -163,7 +163,7 @@
       </a>
       <p>Platform to share and collaborate on CTF ethical hacking challenges, allowing users to explore and contribute to cybersecurity challenges.</p>
       <a href="https://github.com/D1se0/hackerlabs">
-        <img src="https://img.shields.io/badge/Hackerlabs-View_Code-00758f.svg" alt="HackerLabs Website">
+        <img src="https://img.shields.io/badge/Hackerlabs_Website-View_Code-00758f.svg" alt="HackerLabs Website">
       </a>
     </td>
   </tr>
