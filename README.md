@@ -40,7 +40,8 @@
 
   <h2>Education and Certifications</h2>
     <ul>
-        <li>🎓 Vocational Degree in Microcomputer Systems and Networks.</li>
+        <li>🎓 Vocational Degree in Microcomputer Systems and Networks.</
+li>
         <li>🎓 Certified in Cybersecurity with a focus on penetration and defense techniques.</li>
         <li>🔍 Currently pursuing the eJPT certification (eLearnSecurity Junior Penetration Tester).</li>
     </ul>
@@ -202,6 +203,8 @@
 # Other tools (by @d1se0)
 
 <br>
+
+`suBruteforce` = [Tool suBruteforce](https://github.com/D1se0/suBruteforce)
 
 `revShell` = [Tool revShell](https://github.com/D1se0/revShell)
 
