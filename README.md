@@ -206,6 +206,8 @@ li>
 
 `suBruteforce` = [Tool suBruteforce](https://github.com/D1se0/suBruteforce)
 
+`passwordGenerator` = [Tool passwordGenerator](https://github.com/D1se0/passwordGenerator)
+
 `revShell` = [Tool revShell](https://github.com/D1se0/revShell)
 
 `checkPassword` = [Tool checkPassword](https://github.com/D1se0/checkPassword)
