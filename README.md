@@ -1,5 +1,6 @@
 <div align="center">
-<h1> Hi, I'm  ̶𝑫̶𝒊̶𝒔̶𝒆̶𝒐̶  <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h1>
+<h1> Hi, I'm  ̶𝑫̶𝒊̶𝒔̶𝒆̶𝒐̶  <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></
+h1>
 
 </div>
 
@@ -43,7 +44,7 @@
         <li>🎓 Vocational Degree in Microcomputer Systems and Networks.</
 li>
         <li>🎓 Certified in Cybersecurity with a focus on penetration and defense techniques.</li>
-        <li>🔍 Currently pursuing the eJPT certification (eLearnSecurity Junior Penetration Tester).</li>
+        <li>🔍 In possession of the eJPT (eLearnSecurity Junior Penetration Tester) certification.</li>
     </ul>
 
   <h2>Experience and Projects</h2>
