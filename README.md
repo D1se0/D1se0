@@ -223,6 +223,8 @@ li>
 
 `hackerlabsCtfs-tool` = [Tool hackerlabsCtfs-tool](https://github.com/D1se0/hackerlabsCtfs-tool/tree/main)
 
+`Bypass-MFA-Wordpress-LAB` = [CVE-2024-10924-Bypass-MFA-Wordpress-LAB](https://github.com/D1se0/CVE-2024-10924-Bypass-MFA-Wordpress-LAB/tree/main)
+
 <!--!
 
 **D1se0/D1se0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
