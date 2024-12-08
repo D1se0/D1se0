@@ -32,7 +32,8 @@ h1>
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+<picture> <
+img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
 <br>
 
@@ -226,6 +227,10 @@ li>
 `Bypass-MFA-Wordpress-LAB` = [CVE-2024-10924-Bypass-MFA-Wordpress-LAB](https://github.com/D1se0/CVE-2024-10924-Bypass-MFA-Wordpress-LAB/tree/main)
 
 `Vulnerabilidad-Outlook-LAB` = [CVE-2024-21413-Vulnerabilidad-Outlook-LAB](https://github.com/D1se0/CVE-2024-21413-Vulnerabilidad-Outlook-LAB/tree/main)
+
+`Vulnerabilidad-Jenkins-LAB` = [CVE-2024-23897-Vulnerabilidad-Jenkins-LAB](https://github.com/D1se0/CVE-2024-23897-Vulnerabilidad-Jenkins)
+
+`internetNullHacker` = [Tool internetNullHacker](https://github.com/D1se0/internetNullHacker)
 
 <!--!
 
