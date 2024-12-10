@@ -232,6 +232,8 @@ li>
 
 `internetNullHacker` = [Tool internetNullHacker](https://github.com/D1se0/internetNullHacker)
 
+`enumPluginsWordpress` = [Tool enumPluginsWordpress](https://github.com/D1se0/enumPluginsWordpress/tree/main)
+
 <!--!
 
 **D1se0/D1se0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
