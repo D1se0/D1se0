@@ -236,6 +236,8 @@ li>
 
 `advancedInternetNullHacker` = [Tool advancedInternetNullHacker](https://github.com/D1se0/advancedInternetNullHacker/tree/main)
 
+`dynamicIPTool` = [Tool dynamicIP](https://github.com/D1se0/dynamicIPTool)
+
 <!--!
 
 **D1se0/D1se0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
