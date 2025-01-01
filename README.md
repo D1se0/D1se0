@@ -238,6 +238,8 @@ li>
 
 `dynamicIPTool` = [Tool dynamicIP](https://github.com/D1se0/dynamicIPTool)
 
+`Discord-RAT-Windows` = [Tool Troyan Discord-RAT-Windows](https://github.com/D1se0/Discord-RAT-Windows/tree/main)
+
 <!--!
 
 **D1se0/D1se0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
