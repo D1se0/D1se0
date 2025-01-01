@@ -206,6 +206,8 @@ li>
 
 <br>
 
+`Cerbero` = [Tool Cerbero](https://github.com/D1se0/cerbero)
+
 `suBruteforce` = [Tool suBruteforce](https://github.com/D1se0/suBruteforce)
 
 `passwordGenerator` = [Tool passwordGenerator](https://github.com/D1se0/passwordGenerator)
@@ -237,8 +239,6 @@ li>
 `advancedInternetNullHacker` = [Tool advancedInternetNullHacker](https://github.com/D1se0/advancedInternetNullHacker/tree/main)
 
 `dynamicIPTool` = [Tool dynamicIP](https://github.com/D1se0/dynamicIPTool)
-
-`Discord-RAT-Windows` = [Tool Troyan Discord-RAT-Windows](https://github.com/D1se0/Discord-RAT-Windows/tree/main)
 
 <!--!
 
