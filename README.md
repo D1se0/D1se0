@@ -240,6 +240,8 @@ li>
 
 `dynamicIPTool` = [Tool dynamicIP](https://github.com/D1se0/dynamicIPTool)
 
+`Kali-environment-install Tool` = [Tool Kali-environment-install](https://github.com/D1se0/kali-environment-install)
+
 <!--!
 
 **D1se0/D1se0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
