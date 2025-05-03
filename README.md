@@ -83,7 +83,7 @@ li>
     <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white">
   </a>
   &emsp;
-   <a href="https://www.java.org" target="_blank">
+   <a href="https://www.java.com/es/" target="_blank">
     <img alt="JAVA" src="https://img.shields.io/badge/Java%20-%2314354C.svg?logo=java&logoColor=white">
   </a>
   &emsp;
@@ -135,6 +135,8 @@ li>
  ### 👉 Software & Tools
  
 <p>
+  &emsp;
+    <a href="#"><img alt="Eclipse" src="https://img.shields.io/badge/eclipseide%20-%23F05033.svg?logo=eclipseide&logoColor=white"></a>
   &emsp;
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
   &emsp;
