@@ -55,7 +55,6 @@ li>
         <li>
 💼 Active in the field of ethical hacking, with a special passion for pentesting and creating tools in Python3.</li>
         <li>🛠️ Developed several ethical hacking tools to automate penetration testing and strengthen system security.</li>
-
         <li>🌐 Founder and creator from scratch of <em>Ethical Hacking Community</em>, a platform dedicated to educating and sharing knowledge about cybersecurity.</li>
         <li>🎥 Manager of the YouTube channel <em>@Hacking_Community</em>, where I share practical and educational tutorials on ethical hacking and advanced cybersecurity techniques.</li>
     </ul>
