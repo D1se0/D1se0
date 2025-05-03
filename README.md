@@ -84,7 +84,7 @@ li>
   </a>
   &emsp;
    <a href="https://www.java.com/es/" target="_blank">
-    <img alt="JAVA" src="https://img.shields.io/badge/Java%20-%2314354C.svg?logo=java&logoColor=white">
+    <img alt="JAVA" src="https://img.shields.io/badge/Java%20-%23FC390E.svg?logo=java&logoColor=white">
   </a>
   &emsp;
   <a href="https://www.php.net/">
