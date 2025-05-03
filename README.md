@@ -39,7 +39,7 @@ img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right
 
 <h1>About Me</h1>
     <p>Hello! I'm <strong>Adrián</strong>, passionate about cybersecurity and ethical hacking. With a background in cybersecurity and certified in this area, my focus is on exploring and strengthening computer security from multiple perspectives: Red Team and Blue Team.</p>
-<p><strong>Second Account:</strong> <a href="https://github.com/h4ck3nd">h4ck3nd</a></p>
+<p><strong>Secondary account:</strong> <a href="https://github.com/h4ck3nd">h4ck3nd</a></p>
   <h2>Education and Certifications</h2>
     <ul>
         <li>🎓 Vocational Degree in Microcomputer Systems and Networks.</
