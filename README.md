@@ -53,6 +53,7 @@ li>
         <li>
 💼 Active in the field of ethical hacking, with a special passion for pentesting and creating tools in Python3.</li>
         <li>🛠️ Developed several ethical hacking tools to automate penetration testing and strengthen system security.</li>
+
         <li>🌐 Founder and creator from scratch of <em>Ethical Hacking Community</em>, a platform dedicated to educating and sharing knowledge about cybersecurity.</li>
         <li>🎥 Manager of the YouTube channel <em>@Hacking_Community</em>, where I share practical and educational tutorials on ethical hacking and advanced cybersecurity techniques.</li>
     </ul>
@@ -103,6 +104,8 @@ li>
 <p align="left">
   &emsp;
     <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300758f?style=flat&logo=mysql&logoColor=white"></a>
+  &emsp;
+    <a href="https://www.postgresql.com/"><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-%2300758f.svg?logo=postgresql&logoColor=white"></a>
   &emsp;
     <a href="https://www.github.com"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-555555.svg?style=flat&logo=github&logoColor=white"></a>
   &emsp;
