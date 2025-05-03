@@ -136,7 +136,7 @@ li>
  
 <p>
   &emsp;
-    <a href="#"><img alt="Eclipse" src="https://img.shields.io/badge/eclipseide%20-%232C2255.svg?logo=eclipseide&logoColor=white"></a>
+    <a href="#"><img alt="Eclipse" src="https://img.shields.io/badge/Eclipse-IDE%20-%232C2255.svg?logo=eclipseide&logoColor=white"></a>
   &emsp;
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
   &emsp;
