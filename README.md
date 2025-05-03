@@ -22,7 +22,8 @@ h1>
   <a href="https://www.linkedin.com/in/adriaangaarcialopez" target="_blank">
   <img src="https://img.shields.io/badge/Linkedin-%230074D9.svg?logo=Linkedin&logoColor=white" alt="Linkedin">
 </a>
-  <a href="https://github.com/D1se0">
+  <a href="https://github.com/D1se0"
+>
   <img src="https://img.shields.io/github/followers/D1se0?tab=followers&style=social" alt="GitHub">
 </a>
 </div>
@@ -80,6 +81,10 @@ li>
   &emsp;
    <a href="https://www.python.org" target="_blank">
     <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white">
+  </a>
+  &emsp;
+   <a href="https://www.java.org" target="_blank">
+    <img alt="JAVA" src="https://img.shields.io/badge/Java%20-%2314354C.svg?logo=java&logoColor=white">
   </a>
   &emsp;
   <a href="https://www.php.net/">
