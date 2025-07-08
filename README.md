@@ -256,6 +256,8 @@ li>
 
 `SpoofingAppTool` = [SpoofingApp Tool](https://github.com/D1se0/SpoofingApp/tree/main)
 
+`C2-Panel-Malware-Education` = [C2-Panel-Malware-Education Tool](https://github.com/D1se0/c2-panel-malware-education/tree/main)
+
 <!--!
 
 **D1se0/D1se0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
