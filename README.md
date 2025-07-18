@@ -32,7 +32,8 @@ h1>
  
 <br>
 
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width
+ = 50px></picture> About me
 
 <picture> <
 img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
@@ -257,6 +258,8 @@ li>
 `SpoofingAppTool` = [SpoofingApp Tool](https://github.com/D1se0/SpoofingApp/tree/main)
 
 `C2-Panel-Malware-Education` = [C2-Panel-Malware-Education Tool](https://github.com/D1se0/c2-panel-malware-education/tree/main)
+
+`RansomwareLocker` = [RansomwareLocker-Tool](https://github.com/D1se0/RansomwareLocker_Education/tree/main)
 
 <!--!
 
