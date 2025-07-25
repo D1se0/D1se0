@@ -263,6 +263,8 @@ li>
 
 `PSHelp` = [PSHelp Tool](https://github.com/D1se0/PSHelp)
 
+`EnvObfuscatorPS` = [EnvObfuscatorPS Tool](https://github.com/D1se0/EnvObfuscatorPS/tree/main)
+
 <!--!
 
 **D1se0/D1se0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
