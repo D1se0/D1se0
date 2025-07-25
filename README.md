@@ -261,6 +261,8 @@ li>
 
 `RansomwareLocker` = [RansomwareLocker-Tool](https://github.com/D1se0/RansomwareLocker_Education/tree/main)
 
+`PSHelp` = [PSHelp Tool](https://github.com/D1se0/PSHelp)
+
 <!--!
 
 **D1se0/D1se0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
