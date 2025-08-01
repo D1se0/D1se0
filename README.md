@@ -267,6 +267,8 @@ li>
 
 `WinFind` = [WinFind Tool](https://github.com/D1se0/winFind/tree/main)
 
+`brutePSWA` = [brutePSWA Tool](https://github.com/D1se0/brutePSWA/tree/main)
+
 <!--!
 
 **D1se0/D1se0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
