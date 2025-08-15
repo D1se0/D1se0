@@ -269,6 +269,8 @@ li>
 
 `brutePSWA` = [brutePSWA Tool](https://github.com/D1se0/brutePSWA/tree/main)
 
+`Gadget DetectorAPFisico` = [DetectorAPFisico Tool](https://github.com/D1se0/DetectorAPFisico-Gadget-Hacking/tree/main?tab=readme-ov-file)
+
 <!--!
 
 **D1se0/D1se0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
