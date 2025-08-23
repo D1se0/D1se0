@@ -7,8 +7,8 @@ h1>
 <div align
 ="center" width="50">
 
-<img src="https://github.com/D1se0/D1se0/assets/164921056/90a9e063-8c3e-4a2c-8303-4a24be13061d" alt="Welcome!" width="1000"/>
-
+<!--<img src="https://github.com/D1se0/D1se0/assets/164921056/90a9e063-8c3e-4a2c-8303-4a24be13061d" alt="Welcome!" width="1000"/>-->
+<img src="https://github.com/user-attachments/assets/6ed51fa9-5a94-4129-ac9e-9ec7696cadcd" alt="Welcome!" width="1000"/>
 
 </div>
 
@@ -55,6 +55,7 @@ li>
     <ul>
         <li>
 💼 Active in the field of ethical hacking, with a special passion for pentesting and creating tools in Python3.</li>
+
         <li>🛠️ Developed several ethical hacking tools to automate penetration testing and strengthen system security.</li>
         <li>🌐 Founder and creator from scratch of <em>Ethical Hacking Community</em>, a platform dedicated to educating and sharing knowledge about cybersecurity.</li>
         <li>🎥 Manager of the YouTube channel <em>@Hacking_Community</em>, where I share practical and educational tutorials on ethical hacking and advanced cybersecurity techniques.</li>
