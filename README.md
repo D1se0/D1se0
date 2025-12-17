@@ -275,6 +275,8 @@ li>
 
 `InterceptPassResetWindows` = [InterceptPassResetWindows Tool](https://github.com/D1se0/InterceptPassResetWindows)
 
+`Eloquia DLL Injection Exploit HTB` = [Eloquia DLL Injection Exploit HTB Tool](https://github.com/D1se0/Eloquia-DLL-Injection-Exploit-HTB)
+
 <!--!
 
 **D1se0/D1se0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
