@@ -277,6 +277,8 @@ li>
 
 `Eloquia DLL Injection Exploit HTB` = [Eloquia DLL Injection Exploit HTB Tool](https://github.com/D1se0/Eloquia-DLL-Injection-Exploit-HTB)
 
+`Gestor de contraseñas App (BETA)` = [Gestor de contraseñas App (BETA)](https://github.com/D1se0/Aplicacion_Gestor_de_contrasenas_Windows)
+
 <!--!
 
 **D1se0/D1se0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
