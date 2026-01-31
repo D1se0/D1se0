@@ -277,7 +277,9 @@ li>
 
 `Eloquia DLL Injection Exploit HTB` = [Eloquia DLL Injection Exploit HTB Tool](https://github.com/D1se0/Eloquia-DLL-Injection-Exploit-HTB)
 
-`Gestor de contraseñas App (BETA)` = [Gestor de contraseñas App (BETA)](https://github.com/D1se0/Aplicacion_Gestor_de_contrasenas_Windows)
+`Gestor de contraseñas App (BETA)` = [Gestor de contraseñas App - BETA](https://github.com/D1se0/Aplicacion_Gestor_de_contrasenas_Windows)
+
+`Command Vault (Base de datos de comandos - BETA)` = [Command Vault - BETA](https://github.com/D1se0/Command_Vault)
 
 <!--!
 
