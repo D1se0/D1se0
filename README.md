@@ -283,6 +283,8 @@ li>
 
 `PoC - CVE-2024-51428` = [PoC - CVE-2024-51428](https://github.com/D1se0/CVE-2024-51428-PoC)
 
+`LogsGenerator - Tool` = [LogsGenerator - Tool](https://github.com/D1se0/logsGenerator)
+
 <!--!
 
 **D1se0/D1se0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
