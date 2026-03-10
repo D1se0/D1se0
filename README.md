@@ -283,6 +283,8 @@ li>
 
 `Arch i3 - d1se0 Environment` = [Arch i3 - d1se0 Environment](https://github.com/D1se0/Arch_i3_d1se0_Environment)
 
+`PoC - CVE-2024-51428` = [PoC - CVE-2024-51428](https://github.com/D1se0/CVE-2024-51428-PoC)
+
 <!--!
 
 **D1se0/D1se0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
