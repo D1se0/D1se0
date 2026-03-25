@@ -285,6 +285,8 @@ li>
 
 `LogsGenerator - Tool` = [LogsGenerator - Tool](https://github.com/D1se0/logsGenerator)
 
+`CheatSheet Maquinas HTB` = [Pagina - CheatSheet Maquinas HTB](https://github.com/D1se0/cheatsheet_machines_htb)
+
 <!--!
 
 **D1se0/D1se0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
