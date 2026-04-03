@@ -291,6 +291,8 @@ li>
 
 `Calculadora de VLSM` = [Pagina - Calculadora de VLSM](https://github.com/D1se0/calculadora_vlsm)
 
+`Entorno Nordico Kali Linux` = [Entorno Nordico Kali Linux](https://github.com/D1se0/environment-kali-nordic)
+
 <!--!
 
 **D1se0/D1se0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
