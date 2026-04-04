@@ -295,6 +295,8 @@ li>
 
 `HackingChef` = [Pagina - HackingChef](https://github.com/D1se0/hackingChef-page)
 
+`PHPDetector` = [Pagina - PHPDetector](https://github.com/D1se0/PHPDetector-page)
+
 <!--!
 
 **D1se0/D1se0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
