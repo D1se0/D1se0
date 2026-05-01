@@ -301,6 +301,8 @@ li>
 
 `WiFiHackWPA2-3` = [Tool - WiFiHackWPA2-3](https://github.com/D1se0/WiFiHackWPA2-3)
 
+`Calculadora CHMOD` = [Pagina - Calculadora CHMOD](https://github.com/D1se0/chmod-calculator)
+
 <!--!
 
 **D1se0/D1se0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
