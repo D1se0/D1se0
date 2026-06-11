@@ -50,6 +50,7 @@ h1>
 li>
         <li>🎓 Certified in Cybersecurity with a focus on penetration and defense techniques.</li>
         <li>🔍 In possession of the eJPT (eLearnSecurity Junior Penetration Tester) certification.</li>
+        <li>🕷️ In possession of the CWES (HTB Certified Web Exploitation Specialist) certification.</li>
     </ul>
 
   <h2>Experience and Projects</h2>
