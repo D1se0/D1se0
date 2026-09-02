@@ -140,7 +140,7 @@
     <td align="center" width="50%">
       <h3>Blog Hacking</h3>
       <a href="https://d1se0.github.io/blog_hacking/">
-        <img src="https://raw.githubusercontent.com/D1se0/blog_hacking/v2/favicon.png" alt="Blog Hacking" style="width: 100%; max-height: 200px; border-radius: 20px; margin: 12px 0;">
+        <img src="https://raw.githubusercontent.com/D1se0/blog_hacking/v2/favicon.png" alt="Blog Hacking" style="width: 80%; max-height: 180px; border-radius: 20px; margin: 12px 0;">
       </a>
       <p>Blog personal con writeups de CTF, informes de bug bounty, cheatsheets y herramientas sobre pentesting y automatización de seguridad.</p>
       <a href="https://github.com/D1se0/blog_hacking">
