@@ -1,37 +1,96 @@
 <div align="center">
 
+<img src="https://raw.githubusercontent.com/D1se0/D1se0/main/bannerGitHub.png" alt="Diseo Hacking" width="100%"/>
+
+<br/><br/>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/D1se0/D1se0/main/dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/D1se0/D1se0/main/light.svg">
   <img alt="Adrian // D1se0" src="https://raw.githubusercontent.com/D1se0/D1se0/main/light.svg">
 </picture>
 
-<br/><br/>
-
-<img src="https://raw.githubusercontent.com/D1se0/D1se0/main/bannerGitHub.png" alt="Diseo Hacking" width="100%"/>
-
 </div>
 
 <br/>
 
-<div align="center">
+<h3 align="center">- STACK -</h3>
+
+<table align="center">
+<tr><td align="right"><b>💻 Languages</b></td><td>
 
 <img src="https://img.shields.io/badge/JavaScript-0A101F?style=flat-square&logo=javascript&logoColor=F7DF1E&labelColor=0A101F" alt="JavaScript"/>
 <img src="https://img.shields.io/badge/Python-0A101F?style=flat-square&logo=python&logoColor=22D3EE&labelColor=0A101F" alt="Python"/>
 <img src="https://img.shields.io/badge/Java-0A101F?style=flat-square&logo=openjdk&logoColor=A78BFA&labelColor=0A101F" alt="Java"/>
 <img src="https://img.shields.io/badge/PHP-0A101F?style=flat-square&logo=php&logoColor=A78BFA&labelColor=0A101F" alt="PHP"/>
-<img src="https://img.shields.io/badge/Node.js-0A101F?style=flat-square&logo=nodedotjs&logoColor=10B981&labelColor=0A101F" alt="Node.js"/>
-<img src="https://img.shields.io/badge/React-0A101F?style=flat-square&logo=react&logoColor=22D3EE&labelColor=0A101F" alt="React"/>
-<img src="https://img.shields.io/badge/HTML5-0A101F?style=flat-square&logo=html5&logoColor=F45C1C&labelColor=0A101F" alt="HTML5"/>
-<img src="https://img.shields.io/badge/CSS3-0A101F?style=flat-square&logo=css3&logoColor=22D3EE&labelColor=0A101F" alt="CSS3"/>
-<img src="https://img.shields.io/badge/MySQL-0A101F?style=flat-square&logo=mysql&logoColor=A78BFA&labelColor=0A101F" alt="MySQL"/>
-<img src="https://img.shields.io/badge/PostgreSQL-0A101F?style=flat-square&logo=postgresql&logoColor=10B981&labelColor=0A101F" alt="PostgreSQL"/>
-<img src="https://img.shields.io/badge/Docker-0A101F?style=flat-square&logo=docker&logoColor=22D3EE&labelColor=0A101F" alt="Docker"/>
-<img src="https://img.shields.io/badge/Git-0A101F?style=flat-square&logo=git&logoColor=F45C1C&labelColor=0A101F" alt="Git"/>
-<img src="https://img.shields.io/badge/Linux-0A101F?style=flat-square&logo=linux&logoColor=F8FAFC&labelColor=0A101F" alt="Linux"/>
-<img src="https://img.shields.io/badge/Kali_Linux-0A101F?style=flat-square&logo=kalilinux&logoColor=A78BFA&labelColor=0A101F" alt="Kali Linux"/>
-<img src="https://img.shields.io/badge/VS_Code-0A101F?style=flat-square&logo=visualstudiocode&logoColor=22D3EE&labelColor=0A101F" alt="VS Code"/>
 
+</td></tr>
+<tr><td align="right"><b>🎨 Frontend</b></td><td>
+
+<img src="https://img.shields.io/badge/HTML5-0A101F?style=flat-square&logo=html5&logoColor=F45C1C&labelColor=0A101F" alt="HTML5"/>
+<img src="https://img.shields.io/badge/CSS3-0A101F?style=flat-square&logo=css&logoColor=22D3EE&labelColor=0A101F" alt="CSS3"/>
+<img src="https://img.shields.io/badge/React-0A101F?style=flat-square&logo=react&logoColor=22D3EE&labelColor=0A101F" alt="React"/>
+
+</td></tr>
+<tr><td align="right"><b>⚙️ Backend</b></td><td>
+
+<img src="https://img.shields.io/badge/Node.js-0A101F?style=flat-square&logo=nodedotjs&logoColor=10B981&labelColor=0A101F" alt="Node.js"/>
+<img src="https://img.shields.io/badge/Python3-0A101F?style=flat-square&logo=python&logoColor=10B981&labelColor=0A101F" alt="Python3"/>
+<img src="https://img.shields.io/badge/PHP-0A101F?style=flat-square&logo=php&logoColor=10B981&labelColor=0A101F" alt="PHP"/>
+
+</td></tr>
+<tr><td align="right"><b>🗄️ Database</b></td><td>
+
+<img src="https://img.shields.io/badge/MySQL-0A101F?style=flat-square&logo=mysql&logoColor=A78BFA&labelColor=0A101F" alt="MySQL"/>
+<img src="https://img.shields.io/badge/PostgreSQL-0A101F?style=flat-square&logo=postgresql&logoColor=A78BFA&labelColor=0A101F" alt="PostgreSQL"/>
+
+</td></tr>
+<tr><td align="right"><b>🛡️ Offensive Security</b></td><td>
+
+<img src="https://img.shields.io/badge/Kali_Linux-0A101F?style=flat-square&logo=kalilinux&logoColor=22D3EE&labelColor=0A101F" alt="Kali Linux"/>
+<img src="https://img.shields.io/badge/Burp_Suite-0A101F?style=flat-square&logo=burpsuite&logoColor=22D3EE&labelColor=0A101F" alt="Burp Suite"/>
+<img src="https://img.shields.io/badge/Metasploit-0A101F?style=flat-square&logo=metasploit&logoColor=22D3EE&labelColor=0A101F" alt="Metasploit"/>
+<img src="https://img.shields.io/badge/OWASP_ZAP-0A101F?style=flat-square&logo=zap&logoColor=22D3EE&labelColor=0A101F" alt="OWASP ZAP"/>
+<img src="https://img.shields.io/badge/Wireshark-0A101F?style=flat-square&logo=wireshark&logoColor=22D3EE&labelColor=0A101F" alt="Wireshark"/>
+
+</td></tr>
+<tr><td align="right"><b>🧰 DevOps &amp; Tools</b></td><td>
+
+<img src="https://img.shields.io/badge/Docker-0A101F?style=flat-square&logo=docker&logoColor=F8FAFC&labelColor=0A101F" alt="Docker"/>
+<img src="https://img.shields.io/badge/Git-0A101F?style=flat-square&logo=git&logoColor=F8FAFC&labelColor=0A101F" alt="Git"/>
+<img src="https://img.shields.io/badge/Linux-0A101F?style=flat-square&logo=linux&logoColor=F8FAFC&labelColor=0A101F" alt="Linux"/>
+<img src="https://img.shields.io/badge/Bash-0A101F?style=flat-square&logo=gnubash&logoColor=F8FAFC&labelColor=0A101F" alt="Bash"/>
+
+</td></tr>
+</table>
+
+<br/>
+
+<h3 align="center">- EDUCATION &amp; CERTIFICATIONS -</h3>
+
+<div align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
+<h4>🎓 Grado en Sistemas Microinformáticos y Redes</h4>
+<p>Formación Profesional enfocada en administración de sistemas, redes e infraestructura IT.</p>
+</td>
+<td width="50%" valign="top">
+<h4>🛡️ Certificado en Ciberseguridad</h4>
+<p>Especialización en técnicas de penetración y defensa de sistemas (Red Team &amp; Blue Team).</p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h4>🔍 eJPT — eLearnSecurity Junior Penetration Tester</h4>
+<p>Certificación práctica en fundamentos de pentesting: reconocimiento, explotación y reporting.</p>
+</td>
+<td width="50%" valign="top">
+<h4>🕷️ CWES — HTB Certified Web Exploitation Specialist</h4>
+<p>Certificación de Hack The Box especializada en explotación de vulnerabilidades web.</p>
+</td>
+</tr>
+</table>
 </div>
 
 <br/>
