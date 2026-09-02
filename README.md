@@ -1,20 +1,26 @@
 <div align="center">
 
+<img src="https://raw.githubusercontent.com/D1se0/D1se0/main/bannerGitHub.png" alt="Diseo Hacking" width="100%"/>
+
+<br/><br/>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/D1se0/D1se0/main/dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/D1se0/D1se0/main/light.svg">
   <img alt="Adrian // D1se0" src="https://raw.githubusercontent.com/D1se0/D1se0/main/light.svg">
 </picture>
 
-<br/><br/>
-
-<img src="https://raw.githubusercontent.com/D1se0/D1se0/main/bannerGitHub.png" alt="Diseo Hacking" width="100%"/>
-
 </div>
 
 <br/>
 
-<h3 align="center">- STACK -</h3>
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/D1se0/D1se0/main/titles/stack-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/D1se0/D1se0/main/titles/stack-light.svg">
+  <img alt="Stack" src="https://raw.githubusercontent.com/D1se0/D1se0/main/titles/stack-light.svg" width="100%">
+</picture>
+</div>
 
 <table align="center">
 <tr><td align="right"><b>💻 Languages</b></td><td>
@@ -66,7 +72,13 @@
 
 <br/>
 
-<h3 align="center">- EDUCATION &amp; CERTIFICATIONS -</h3>
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/D1se0/D1se0/main/titles/education-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/D1se0/D1se0/main/titles/education-light.svg">
+  <img alt="Education & Certifications" src="https://raw.githubusercontent.com/D1se0/D1se0/main/titles/education-light.svg" width="100%">
+</picture>
+</div>
 
 <div align="center">
 <table>
@@ -114,18 +126,24 @@
 
 <br/>
 
-<h2 align="center">🖥️ Featured Projects</h2>
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/D1se0/D1se0/main/titles/projects-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/D1se0/D1se0/main/titles/projects-light.svg">
+  <img alt="Featured Projects" src="https://raw.githubusercontent.com/D1se0/D1se0/main/titles/projects-light.svg" width="100%">
+</picture>
+</div>
 
 <div align="center">
 <table>
   <tr>
     <td align="center" width="50%">
-      <h3>Ethical Hacking Website</h3>
-      <a href="https://github.com/D1se0/hacklab.github.io">
-        <img src="https://github.com/D1se0/D1se0/assets/164921056/d1e47bfc-1c97-41ac-8fb8-8d00903277ef" alt="Ethical Hacking Website" style="width: 100%; max-height: 200px; border-radius: 8px;">
+      <h3>Blog Hacking</h3>
+      <a href="https://d1se0.github.io/blog_hacking/">
+        <img src="https://raw.githubusercontent.com/D1se0/blog_hacking/v2/favicon.png" alt="Blog Hacking" style="width: 120px; height: 120px; border-radius: 20px; margin: 12px 0;">
       </a>
-      <p>Sitio dedicado a recursos educativos y prácticos de hacking ético para entusiastas y profesionales de la ciberseguridad.</p>
-      <a href="https://github.com/D1se0/hacklab.github.io">
+      <p>Blog personal con writeups de CTF, informes de bug bounty, cheatsheets y herramientas sobre pentesting y automatización de seguridad.</p>
+      <a href="https://github.com/D1se0/blog_hacking">
         <img src="https://img.shields.io/badge/View_Code-0A101F?style=for-the-badge&logoColor=22D3EE&labelColor=0A101F&color=0A101F" alt="View Code">
       </a>
     </td>
@@ -145,8 +163,14 @@
 
 <br/>
 
-<h2 align="center">🛠️ Tools &amp; Labs</h2>
-<p align="center"><sub>~40 herramientas y laboratorios propios, organizados por categoría — clic para desplegar</sub></p>
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/D1se0/D1se0/main/titles/tools-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/D1se0/D1se0/main/titles/tools-light.svg">
+  <img alt="Tools & Labs" src="https://raw.githubusercontent.com/D1se0/D1se0/main/titles/tools-light.svg" width="100%">
+</picture>
+</div>
+<p align="center"><sub>43 herramientas y laboratorios propios, organizados por categoría — clic para desplegar</sub></p>
 
 <details>
 <summary><b>🔎 Recon &amp; Scanning</b></summary>
@@ -255,6 +279,14 @@
 </details>
 
 <br/>
+
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/D1se0/D1se0/main/titles/connect-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/D1se0/D1se0/main/titles/connect-light.svg">
+  <img alt="Connect" src="https://raw.githubusercontent.com/D1se0/D1se0/main/titles/connect-light.svg" width="100%">
+</picture>
+</div>
 
 <div align="center">
 
