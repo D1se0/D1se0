@@ -139,11 +139,11 @@
   <tr>
     <td align="center" width="50%">
       <h3>Blog Hacking</h3>
-      <br>
+      <br><br>
       <a href="https://d1se0.github.io/blog_hacking/">
         <img src="https://raw.githubusercontent.com/D1se0/blog_hacking/v2/favicon.png" alt="Blog Hacking" style="width: 80%; max-height: 180px; border-radius: 20px; margin: 12px 0;">
       </a>
-      <br>
+      <br><br>
       <p>Blog personal con writeups de CTF, informes de bug bounty, cheatsheets y herramientas sobre pentesting y automatización de seguridad.</p>
       <a href="https://github.com/D1se0/blog_hacking">
         <img src="https://img.shields.io/badge/View_Code-0A101F?style=for-the-badge&logoColor=22D3EE&labelColor=0A101F&color=0A101F" alt="View Code">
