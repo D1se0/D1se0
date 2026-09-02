@@ -1,14 +1,14 @@
 <div align="center">
 
+<img src="https://raw.githubusercontent.com/D1se0/D1se0/main/bannerGitHub.png" alt="Diseo Hacking" width="100%"/>
+
+<br/><br/>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/D1se0/D1se0/main/dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/D1se0/D1se0/main/light.svg">
   <img alt="Adrian // D1se0" src="https://raw.githubusercontent.com/D1se0/D1se0/main/light.svg">
 </picture>
-
-<br/><br/>
-
-<img src="https://raw.githubusercontent.com/D1se0/D1se0/main/bannerGitHub.png" alt="Diseo Hacking" width="100%"/>
 
 </div>
 
@@ -112,6 +112,18 @@
 <br/>
 <img width="49%" src="https://readme-stats-d1se0.vercel.app/api?username=D1se0&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F&card_width=500" alt="stats" />
 <img width="49%" src="https://readme-stats-d1se0.vercel.app/api/top-langs/?username=D1se0&layout=compact&langs_count=8&hide_border=true&title_color=22D3EE&text_color=94A3B8&bg_color=0A101F&card_width=500" alt="top langs" />
+<br/><br/>
+<a href="https://github.com/D1se0?tab=followers">
+  <img src="https://img.shields.io/github/followers/D1se0?style=for-the-badge&logo=github&logoColor=A78BFA&label=FOLLOWERS&labelColor=0A101F&color=0A101F" alt="Followers" />
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/D1se0?tab=following">
+  <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/D1se0&label=FOLLOWING&query=following&style=for-the-badge&logo=github&logoColor=22D3EE&labelColor=0A101F&color=0A101F" alt="Following" />
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/D1se0?tab=repositories">
+  <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/D1se0&label=REPOS&query=public_repos&style=for-the-badge&logo=github&logoColor=10B981&labelColor=0A101F&color=0A101F" alt="Public Repos" />
+</a>
 </div>
 
 <br/>
@@ -139,11 +151,9 @@
   <tr>
     <td align="center" width="50%">
       <h3>Blog Hacking</h3>
-      <br><br>
       <a href="https://d1se0.github.io/blog_hacking/">
-        <img src="https://raw.githubusercontent.com/D1se0/blog_hacking/v2/favicon.png" alt="Blog Hacking" style="width: 80%; max-height: 180px; border-radius: 20px; margin: 12px 0;">
+        <img src="https://raw.githubusercontent.com/D1se0/blog_hacking/v2/favicon.png" alt="Blog Hacking" style="width: 120px; height: 120px; border-radius: 20px; margin: 12px 0;">
       </a>
-      <br><br>
       <p>Blog personal con writeups de CTF, informes de bug bounty, cheatsheets y herramientas sobre pentesting y automatización de seguridad.</p>
       <a href="https://github.com/D1se0/blog_hacking">
         <img src="https://img.shields.io/badge/View_Code-0A101F?style=for-the-badge&logoColor=22D3EE&labelColor=0A101F&color=0A101F" alt="View Code">
