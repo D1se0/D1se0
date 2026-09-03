@@ -13,23 +13,23 @@
 }
 </style>
 <radialGradient id="glow-stack-light" cx="50%" cy="50%" r="60%">
-<stop offset="0%" stop-color="#7C3AED" stop-opacity="0.16"/>
-<stop offset="100%" stop-color="#7C3AED" stop-opacity="0"/>
+<stop offset="0%" stop-color="#B91C1C" stop-opacity="0.16"/>
+<stop offset="100%" stop-color="#B91C1C" stop-opacity="0"/>
 </radialGradient>
 </defs>
-<rect x="0" y="0" width="1180" height="110" fill="#F4F6FB"/>
+<rect x="0" y="0" width="1180" height="110" fill="#FAFAF9"/>
 <ellipse cx="590.0" cy="55.0" rx="420" ry="70" fill="url(#glow-stack-light)"/>
 
-<g stroke="#0891B2" stroke-width="1.6" stroke-linecap="round" fill="none" opacity="0.8">
+<g stroke="#C2410C" stroke-width="1.6" stroke-linecap="round" fill="none" opacity="0.8">
 <path d="M10,22 L10,10 L22,10"/>
 <path d="M1158,10 L1170,10 L1170,22"/>
 <path d="M10,88 L10,100 L22,100"/>
 <path d="M1158,100 L1170,100 L1170,88"/>
 </g>
 
-<line x1="40" y1="55.0" x2="492.20000000000005" y2="55.0" stroke="#D7DEEC" stroke-width="1"/>
-<line x1="687.8" y1="55.0" x2="1140" y2="55.0" stroke="#D7DEEC" stroke-width="1"/>
+<line x1="40" y1="55.0" x2="492.20000000000005" y2="55.0" stroke="#E4E4E7" stroke-width="1"/>
+<line x1="687.8" y1="55.0" x2="1140" y2="55.0" stroke="#E4E4E7" stroke-width="1"/>
 
-<text x="590.0" y="35.0" font-family="JBMEyebrow" font-size="13" fill="#0891B2" text-anchor="middle" letter-spacing="4">// TECH.STACK</text>
-<text x="590.0" y="77.0" font-family="DotoTitle" font-size="34" fill="#0B0F1A" text-anchor="middle" letter-spacing="3">STACK</text>
+<text x="590.0" y="35.0" font-family="JBMEyebrow" font-size="13" fill="#C2410C" text-anchor="middle" letter-spacing="4">// TECH.STACK</text>
+<text x="590.0" y="77.0" font-family="DotoTitle" font-size="34" fill="#18181B" text-anchor="middle" letter-spacing="3">STACK</text>
 </svg>

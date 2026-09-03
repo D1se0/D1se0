@@ -1,14 +1,14 @@
 <div align="center">
 
+<img src="https://raw.githubusercontent.com/D1se0/D1se0/main/bannerGitHub.png" alt="Diseo Hacking" width="100%"/>
+
+<br/><br/>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/D1se0/D1se0/main/dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/D1se0/D1se0/main/light.svg">
   <img alt="Adrian // D1se0" src="https://raw.githubusercontent.com/D1se0/D1se0/main/light.svg">
 </picture>
-
-<br/><br/>
-
-<img src="https://raw.githubusercontent.com/D1se0/D1se0/main/bannerGitHub.png" alt="Diseo Hacking" width="100%"/>
 
 </div>
 
@@ -25,47 +25,47 @@
 <table align="center">
 <tr><td align="right"><b>💻 Languages</b></td><td>
 
-<img src="https://img.shields.io/badge/JavaScript-0A101F?style=flat-square&logo=javascript&logoColor=F7DF1E&labelColor=0A101F" alt="JavaScript"/>
-<img src="https://img.shields.io/badge/Python-0A101F?style=flat-square&logo=python&logoColor=22D3EE&labelColor=0A101F" alt="Python"/>
-<img src="https://img.shields.io/badge/Java-0A101F?style=flat-square&logo=openjdk&logoColor=A78BFA&labelColor=0A101F" alt="Java"/>
-<img src="https://img.shields.io/badge/PHP-0A101F?style=flat-square&logo=php&logoColor=A78BFA&labelColor=0A101F" alt="PHP"/>
+<img src="https://img.shields.io/badge/JavaScript-0A0A0A?style=flat-square&logo=javascript&logoColor=F7DF1E&labelColor=0A0A0A" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/Python-0A0A0A?style=flat-square&logo=python&logoColor=FB923C&labelColor=0A0A0A" alt="Python"/>
+<img src="https://img.shields.io/badge/Java-0A0A0A?style=flat-square&logo=openjdk&logoColor=EF4444&labelColor=0A0A0A" alt="Java"/>
+<img src="https://img.shields.io/badge/PHP-0A0A0A?style=flat-square&logo=php&logoColor=EF4444&labelColor=0A0A0A" alt="PHP"/>
 
 </td></tr>
 <tr><td align="right"><b>🎨 Frontend</b></td><td>
 
-<img src="https://img.shields.io/badge/HTML5-0A101F?style=flat-square&logo=html5&logoColor=F45C1C&labelColor=0A101F" alt="HTML5"/>
-<img src="https://img.shields.io/badge/CSS3-0A101F?style=flat-square&logo=css&logoColor=22D3EE&labelColor=0A101F" alt="CSS3"/>
-<img src="https://img.shields.io/badge/React-0A101F?style=flat-square&logo=react&logoColor=22D3EE&labelColor=0A101F" alt="React"/>
+<img src="https://img.shields.io/badge/HTML5-0A0A0A?style=flat-square&logo=html5&logoColor=F45C1C&labelColor=0A0A0A" alt="HTML5"/>
+<img src="https://img.shields.io/badge/CSS3-0A0A0A?style=flat-square&logo=css&logoColor=FB923C&labelColor=0A0A0A" alt="CSS3"/>
+<img src="https://img.shields.io/badge/React-0A0A0A?style=flat-square&logo=react&logoColor=FB923C&labelColor=0A0A0A" alt="React"/>
 
 </td></tr>
 <tr><td align="right"><b>⚙️ Backend</b></td><td>
 
-<img src="https://img.shields.io/badge/Node.js-0A101F?style=flat-square&logo=nodedotjs&logoColor=10B981&labelColor=0A101F" alt="Node.js"/>
-<img src="https://img.shields.io/badge/Python3-0A101F?style=flat-square&logo=python&logoColor=10B981&labelColor=0A101F" alt="Python3"/>
-<img src="https://img.shields.io/badge/PHP-0A101F?style=flat-square&logo=php&logoColor=10B981&labelColor=0A101F" alt="PHP"/>
+<img src="https://img.shields.io/badge/Node.js-0A0A0A?style=flat-square&logo=nodedotjs&logoColor=F59E0B&labelColor=0A0A0A" alt="Node.js"/>
+<img src="https://img.shields.io/badge/Python3-0A0A0A?style=flat-square&logo=python&logoColor=F59E0B&labelColor=0A0A0A" alt="Python3"/>
+<img src="https://img.shields.io/badge/PHP-0A0A0A?style=flat-square&logo=php&logoColor=F59E0B&labelColor=0A0A0A" alt="PHP"/>
 
 </td></tr>
 <tr><td align="right"><b>🗄️ Database</b></td><td>
 
-<img src="https://img.shields.io/badge/MySQL-0A101F?style=flat-square&logo=mysql&logoColor=A78BFA&labelColor=0A101F" alt="MySQL"/>
-<img src="https://img.shields.io/badge/PostgreSQL-0A101F?style=flat-square&logo=postgresql&logoColor=A78BFA&labelColor=0A101F" alt="PostgreSQL"/>
+<img src="https://img.shields.io/badge/MySQL-0A0A0A?style=flat-square&logo=mysql&logoColor=EF4444&labelColor=0A0A0A" alt="MySQL"/>
+<img src="https://img.shields.io/badge/PostgreSQL-0A0A0A?style=flat-square&logo=postgresql&logoColor=EF4444&labelColor=0A0A0A" alt="PostgreSQL"/>
 
 </td></tr>
 <tr><td align="right"><b>🛡️ Offensive Security</b></td><td>
 
-<img src="https://img.shields.io/badge/Kali_Linux-0A101F?style=flat-square&logo=kalilinux&logoColor=22D3EE&labelColor=0A101F" alt="Kali Linux"/>
-<img src="https://img.shields.io/badge/Burp_Suite-0A101F?style=flat-square&logo=burpsuite&logoColor=22D3EE&labelColor=0A101F" alt="Burp Suite"/>
-<img src="https://img.shields.io/badge/Metasploit-0A101F?style=flat-square&logo=metasploit&logoColor=22D3EE&labelColor=0A101F" alt="Metasploit"/>
-<img src="https://img.shields.io/badge/OWASP_ZAP-0A101F?style=flat-square&logo=zap&logoColor=22D3EE&labelColor=0A101F" alt="OWASP ZAP"/>
-<img src="https://img.shields.io/badge/Wireshark-0A101F?style=flat-square&logo=wireshark&logoColor=22D3EE&labelColor=0A101F" alt="Wireshark"/>
+<img src="https://img.shields.io/badge/Kali_Linux-0A0A0A?style=flat-square&logo=kalilinux&logoColor=FB923C&labelColor=0A0A0A" alt="Kali Linux"/>
+<img src="https://img.shields.io/badge/Burp_Suite-0A0A0A?style=flat-square&logo=burpsuite&logoColor=FB923C&labelColor=0A0A0A" alt="Burp Suite"/>
+<img src="https://img.shields.io/badge/Metasploit-0A0A0A?style=flat-square&logo=metasploit&logoColor=FB923C&labelColor=0A0A0A" alt="Metasploit"/>
+<img src="https://img.shields.io/badge/OWASP_ZAP-0A0A0A?style=flat-square&logo=zap&logoColor=FB923C&labelColor=0A0A0A" alt="OWASP ZAP"/>
+<img src="https://img.shields.io/badge/Wireshark-0A0A0A?style=flat-square&logo=wireshark&logoColor=FB923C&labelColor=0A0A0A" alt="Wireshark"/>
 
 </td></tr>
 <tr><td align="right"><b>🧰 DevOps &amp; Tools</b></td><td>
 
-<img src="https://img.shields.io/badge/Docker-0A101F?style=flat-square&logo=docker&logoColor=F8FAFC&labelColor=0A101F" alt="Docker"/>
-<img src="https://img.shields.io/badge/Git-0A101F?style=flat-square&logo=git&logoColor=F8FAFC&labelColor=0A101F" alt="Git"/>
-<img src="https://img.shields.io/badge/Linux-0A101F?style=flat-square&logo=linux&logoColor=F8FAFC&labelColor=0A101F" alt="Linux"/>
-<img src="https://img.shields.io/badge/Bash-0A101F?style=flat-square&logo=gnubash&logoColor=F8FAFC&labelColor=0A101F" alt="Bash"/>
+<img src="https://img.shields.io/badge/Docker-0A0A0A?style=flat-square&logo=docker&logoColor=F4F4F5&labelColor=0A0A0A" alt="Docker"/>
+<img src="https://img.shields.io/badge/Git-0A0A0A?style=flat-square&logo=git&logoColor=F4F4F5&labelColor=0A0A0A" alt="Git"/>
+<img src="https://img.shields.io/badge/Linux-0A0A0A?style=flat-square&logo=linux&logoColor=F4F4F5&labelColor=0A0A0A" alt="Linux"/>
+<img src="https://img.shields.io/badge/Bash-0A0A0A?style=flat-square&logo=gnubash&logoColor=F4F4F5&labelColor=0A0A0A" alt="Bash"/>
 
 </td></tr>
 </table>
@@ -108,21 +108,21 @@
 <br/>
 
 <div align="center">
-<img width="100%" src="https://streak-stats.demolab.com/?user=D1se0&hide_border=true&background=0A101F&stroke=22D3EE&ring=A78BFA&fire=10B981&currStreakLabel=22D3EE&sideLabels=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=64748B&titleColor=22D3EE&card_width=1180" alt="streak" />
+<img width="100%" src="https://streak-stats.demolab.com/?user=D1se0&hide_border=true&background=0A0A0A&stroke=FB923C&ring=EF4444&fire=F59E0B&currStreakLabel=FB923C&sideLabels=A1A1AA&currStreakNum=F4F4F5&sideNums=F4F4F5&dates=71717A&titleColor=FB923C&card_width=1180" alt="streak" />
 <br/>
-<img width="49%" src="https://readme-stats-d1se0.vercel.app/api?username=D1se0&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F&card_width=500" alt="stats" />
-<img width="49%" src="https://readme-stats-d1se0.vercel.app/api/top-langs/?username=D1se0&layout=compact&langs_count=8&hide_border=true&title_color=22D3EE&text_color=94A3B8&bg_color=0A101F&card_width=500" alt="top langs" />
+<img width="49%" src="https://readme-stats-d1se0.vercel.app/api?username=D1se0&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=FB923C&icon_color=EF4444&text_color=A1A1AA&bg_color=0A0A0A&card_width=500" alt="stats" />
+<img width="49%" src="https://readme-stats-d1se0.vercel.app/api/top-langs/?username=D1se0&layout=compact&langs_count=8&hide_border=true&title_color=FB923C&text_color=A1A1AA&bg_color=0A0A0A&card_width=500" alt="top langs" />
 <br/><br/>
 <a href="https://github.com/D1se0?tab=followers">
-  <img src="https://img.shields.io/github/followers/D1se0?style=for-the-badge&logo=github&logoColor=A78BFA&label=FOLLOWERS&labelColor=0A101F&color=0A101F" alt="Followers" />
+  <img src="https://img.shields.io/github/followers/D1se0?style=for-the-badge&logo=github&logoColor=EF4444&label=FOLLOWERS&labelColor=0A0A0A&color=0A0A0A" alt="Followers" />
 </a>
 &nbsp;&nbsp;
 <a href="https://github.com/D1se0?tab=following">
-  <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/D1se0&label=FOLLOWING&query=following&style=for-the-badge&logo=github&logoColor=22D3EE&labelColor=0A101F&color=0A101F" alt="Following" />
+  <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/D1se0&label=FOLLOWING&query=following&style=for-the-badge&logo=github&logoColor=FB923C&labelColor=0A0A0A&color=0A0A0A" alt="Following" />
 </a>
 &nbsp;&nbsp;
 <a href="https://github.com/D1se0?tab=repositories">
-  <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/D1se0&label=REPOS&query=public_repos&style=for-the-badge&logo=github&logoColor=10B981&labelColor=0A101F&color=0A101F" alt="Public Repos" />
+  <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/D1se0&label=REPOS&query=public_repos&style=for-the-badge&logo=github&logoColor=F59E0B&labelColor=0A0A0A&color=0A0A0A" alt="Public Repos" />
 </a>
 </div>
 
@@ -151,14 +151,12 @@
   <tr>
     <td align="center" width="50%">
       <h3>Blog Hacking</h3>
-      <br><br>
       <a href="https://d1se0.github.io/blog_hacking/">
-        <img src="https://raw.githubusercontent.com/D1se0/blog_hacking/v2/favicon.png" alt="Blog Hacking" style="width: 80%; max-height: 180px; border-radius: 20px; margin: 12px 0;">
+        <img src="https://raw.githubusercontent.com/D1se0/blog_hacking/v2/favicon.png" alt="Blog Hacking" style="width: 120px; height: 120px; border-radius: 20px; margin: 12px 0;">
       </a>
-      <br><br>
       <p>Blog personal con writeups de CTF, informes de bug bounty, cheatsheets y herramientas sobre pentesting y automatización de seguridad.</p>
       <a href="https://github.com/D1se0/blog_hacking">
-        <img src="https://img.shields.io/badge/View_Code-0A101F?style=for-the-badge&logoColor=22D3EE&labelColor=0A101F&color=0A101F" alt="View Code">
+        <img src="https://img.shields.io/badge/View_Code-0A0A0A?style=for-the-badge&logoColor=FB923C&labelColor=0A0A0A&color=0A0A0A" alt="View Code">
       </a>
     </td>
     <td align="center" width="50%">
@@ -168,7 +166,7 @@
       </a>
       <p>Plataforma para compartir y colaborar en retos CTF de hacking ético, explorando y aportando desafíos de ciberseguridad.</p>
       <a href="https://d1se0.github.io/hackerlabs/">
-        <img src="https://img.shields.io/badge/View_Code-0A101F?style=for-the-badge&logoColor=A78BFA&labelColor=0A101F&color=0A101F" alt="View Code">
+        <img src="https://img.shields.io/badge/View_Code-0A0A0A?style=for-the-badge&logoColor=EF4444&labelColor=0A0A0A&color=0A0A0A" alt="View Code">
       </a>
     </td>
   </tr>
@@ -309,23 +307,23 @@
 </a>
 &nbsp;&nbsp;
 <a href="https://www.tiktok.com/@hacking__community">
-  <img src="https://img.shields.io/badge/TikTok-0A101F?style=for-the-badge&logo=tiktok&logoColor=A78BFA&labelColor=0A101F" alt="TikTok" />
+  <img src="https://img.shields.io/badge/TikTok-0A0A0A?style=for-the-badge&logo=tiktok&logoColor=EF4444&labelColor=0A0A0A" alt="TikTok" />
 </a>
 &nbsp;&nbsp;
 <a href="https://www.youtube.com/@Hacking_Community">
-  <img src="https://img.shields.io/badge/YouTube-0A101F?style=for-the-badge&logo=youtube&logoColor=10B981&labelColor=0A101F" alt="YouTube" />
+  <img src="https://img.shields.io/badge/YouTube-0A0A0A?style=for-the-badge&logo=youtube&logoColor=F59E0B&labelColor=0A0A0A" alt="YouTube" />
 </a>
 &nbsp;&nbsp;
 <a href="https://dise0.gitbook.io/h4cker_b00k">
-  <img src="https://img.shields.io/badge/GitBook-0A101F?style=for-the-badge&logo=gitbook&logoColor=22D3EE&labelColor=0A101F" alt="GitBook" />
+  <img src="https://img.shields.io/badge/GitBook-0A0A0A?style=for-the-badge&logo=gitbook&logoColor=FB923C&labelColor=0A0A0A" alt="GitBook" />
 </a>
 &nbsp;&nbsp;
 <a href="mailto:ciberseguridad12345@gmail.com">
-  <img src="https://img.shields.io/badge/Email-0A101F?style=for-the-badge&logo=gmail&logoColor=10B981&labelColor=0A101F" alt="Email" />
+  <img src="https://img.shields.io/badge/Email-0A0A0A?style=for-the-badge&logo=gmail&logoColor=F59E0B&labelColor=0A0A0A" alt="Email" />
 </a>
 &nbsp;&nbsp;
 <a href="https://h4ck3nd.github.io/PaginaCV/">
-  <img src="https://img.shields.io/badge/Portfolio-0A101F?style=for-the-badge&logoColor=A78BFA&labelColor=0A101F&color=0A101F" alt="Portfolio" />
+  <img src="https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logoColor=EF4444&labelColor=0A0A0A&color=0A0A0A" alt="Portfolio" />
 </a>
 
 </div>
