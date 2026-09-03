@@ -110,7 +110,7 @@
 <div align="center">
 <img width="100%" src="https://streak-stats.demolab.com/?user=D1se0&hide_border=true&background=0A0A0A&stroke=FB923C&ring=EF4444&fire=F59E0B&currStreakLabel=FB923C&sideLabels=A1A1AA&currStreakNum=F4F4F5&sideNums=F4F4F5&dates=71717A&titleColor=FB923C&card_width=1180" alt="streak" />
 <br/>
-<img width="49%" src="https://readme-stats-d1se0.vercel.app/api?username=D1se0&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=FB923C&icon_color=EF4444&text_color=A1A1AA&bg_color=0A0A0A&card_width=500" alt="stats" />
+<img width="49%" src="https://readme-stats-d1se0.vercel.app/api?username=D1se0&show_icons=true&count_private=true&hide_rank=true&hide_border=true&title_color=FB923C&icon_color=EF4444&text_color=A1A1AA&bg_color=0A0A0A&card_width=500" alt="stats" />
 <img width="49%" src="https://readme-stats-d1se0.vercel.app/api/top-langs/?username=D1se0&layout=compact&langs_count=8&hide_border=true&title_color=FB923C&text_color=A1A1AA&bg_color=0A0A0A&card_width=500" alt="top langs" />
 <br/><br/>
 <a href="https://github.com/D1se0?tab=followers">
