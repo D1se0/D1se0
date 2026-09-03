@@ -1,14 +1,14 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/D1se0/D1se0/main/bannerGitHub.png" alt="Diseo Hacking" width="100%"/>
-
-<br/><br/>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/D1se0/D1se0/main/dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/D1se0/D1se0/main/light.svg">
   <img alt="Adrian // D1se0" src="https://raw.githubusercontent.com/D1se0/D1se0/main/light.svg">
 </picture>
+
+<br/><br/>
+
+<img src="https://raw.githubusercontent.com/D1se0/D1se0/main/bannerGitHub.png" alt="Diseo Hacking" width="100%"/>
 
 </div>
 
@@ -151,9 +151,11 @@
   <tr>
     <td align="center" width="50%">
       <h3>Blog Hacking</h3>
+      <br><br>
       <a href="https://d1se0.github.io/blog_hacking/">
-        <img src="https://raw.githubusercontent.com/D1se0/blog_hacking/v2/favicon.png" alt="Blog Hacking" style="width: 120px; height: 120px; border-radius: 20px; margin: 12px 0;">
+        <img src="https://raw.githubusercontent.com/D1se0/blog_hacking/v2/favicon.png" alt="Blog Hacking" style="width: 80%; max-height: 180px; border-radius: 20px; margin: 12px 0;">
       </a>
+      <br><br>
       <p>Blog personal con writeups de CTF, informes de bug bounty, cheatsheets y herramientas sobre pentesting y automatización de seguridad.</p>
       <a href="https://github.com/D1se0/blog_hacking">
         <img src="https://img.shields.io/badge/View_Code-0A0A0A?style=for-the-badge&logoColor=FB923C&labelColor=0A0A0A&color=0A0A0A" alt="View Code">
